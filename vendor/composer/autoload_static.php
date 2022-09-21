@@ -262,16 +262,16 @@ class ComposerStaticInit9766d13219a1a32620a1c507e2b50e6b
         array (
             'phpDocumentor' => 
             array (
-                0 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
-                1 => __DIR__ . '/..' . '/phpdocumentor/reflection/src',
-                2 => __DIR__ . '/..' . '/phpdocumentor/reflection/tests/unit',
-                3 => __DIR__ . '/..' . '/phpdocumentor/reflection/tests/mocks',
-                4 => __DIR__ . '/..' . '/phpdocumentor/graphviz/src',
-                5 => __DIR__ . '/..' . '/phpdocumentor/graphviz/tests/unit',
-                6 => __DIR__ . '/..' . '/phpdocumentor/fileset/src',
-                7 => __DIR__ . '/..' . '/phpdocumentor/fileset/tests/unit',
-                8 => __DIR__ . '/..' . '/phpdocumentor/phpdocumentor/src',
-                9 => __DIR__ . '/..' . '/phpdocumentor/phpdocumentor/tests/unit',
+                0 => __DIR__ . '/..' . '/phpdocumentor/fileset/src',
+                1 => __DIR__ . '/..' . '/phpdocumentor/fileset/tests/unit',
+                2 => __DIR__ . '/..' . '/phpdocumentor/graphviz/src',
+                3 => __DIR__ . '/..' . '/phpdocumentor/graphviz/tests/unit',
+                4 => __DIR__ . '/..' . '/phpdocumentor/phpdocumentor/src',
+                5 => __DIR__ . '/..' . '/phpdocumentor/phpdocumentor/tests/unit',
+                6 => __DIR__ . '/..' . '/phpdocumentor/reflection/src',
+                7 => __DIR__ . '/..' . '/phpdocumentor/reflection/tests/unit',
+                8 => __DIR__ . '/..' . '/phpdocumentor/reflection/tests/mocks',
+                9 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             ),
         ),
         'T' => 
